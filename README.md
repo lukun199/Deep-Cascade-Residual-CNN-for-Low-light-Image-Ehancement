@@ -7,7 +7,7 @@ However, some of the enhanced low-light imagses is shown here.
      
 Note that because of the RAM limitation of this machine (8G), the ‘5.bmp’ could not be processed, and that's why we give the results of the remaining 9 images.  
      
-Still, this result is yield in a middle-scale test. As we see that some artifacts do exist in some testing samples, such as the ‘9.bmp’ and '10.bmp'. This is mainly caused by insuffucient trainning and limited dataset (GTX 1060, 25 hours with only 1800+ training images). We will perfect this model in around 2 months.  
+Still, this result is yield in a small-scale test. As we see that some artifacts do exist in some testing samples, such as the ‘9.bmp’ and '10.bmp'. This is mainly caused by insuffucient trainning and limited dataset (GTX 1060, 25 hours with only 1800+ training images). We will perfect this model in around 2 months.  
            
 The test images used here is cited from LIME (https://sites.google.com/view/xjguo/lime).
 
