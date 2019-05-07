@@ -10,5 +10,5 @@ Note that because of the RAM limitation of this machine (8G), the ‘5.bmp’ co
 Still, this result is yield in a middle-scale test. As we see that some artifacts do exist in some testing samples, such as the ‘9.bmp’. This is mainly caused by insuffucient trainning and limited dataset (GTX 1060, 25 hours with only 1800+ training images). We will perfect this model in around 2 months.
 
 SEE THE RESULTS BELOW.
-![image](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/raw/1.bmp)
-![image](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/enhanced/1_out.bmp)
+![image text](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/master/raw/1.bmp)
+![image text](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/master/enhanced/1_out.bmp)
