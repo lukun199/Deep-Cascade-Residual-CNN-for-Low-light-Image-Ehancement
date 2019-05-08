@@ -1,9 +1,9 @@
 # Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement
 In this project, we explored a new deep cascade residual CNN which is designed for low-level Image-Enhancement tasks. It is now tested in the low-light Image ehancement field. The framework is composed of several detachable Sub-U_nets, where both the high-level and low-level features are taken as its input to jointly enhance the details and global styles in an image. In the small-scale experiment(30th, April), we found that this network had already achieved a competitive results. Moreover, our network significantly reduces the total paremeters compared with several methods proposed in 2018 and 2019. We suppose this network structure could also be used in other low-level image enhancement tasks.
 
-Since we are still working in this project, we would not release our source code and metwork framework till better results yield and the publication in the future. More experiments are now undergoing.  
+Since we are still working on this project, we would not release our source code and metwork framework till better results yield and publication in the future. More experiments are now undergoing.  
      
-However, some of the enhanced low-light imagses is shown here.   
+However, some of the enhanced low-light imagses are shown here.   
      
 Note that because of the RAM limitation of this machine (8G), the ‘5.bmp’ could not be processed, and that's why we give the results of the remaining 9 images.  
      
