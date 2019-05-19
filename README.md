@@ -13,8 +13,7 @@ The test images used here is cited from LIME (https://sites.google.com/view/xjgu
 
 SEE THE RESULTS BELOW.  
 * Quantitive evaluation  
-       
-![image_eval](evaluation.png)
+![image_eval](Evaluation.png)
            
 ![image1_raw](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/raw/1.bmp)
 ![image1_enahnced](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/enhanced/1_out.png)
