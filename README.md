@@ -17,7 +17,7 @@ SEE THE RESULTS BELOW.
        
                
 
-![V_eval](Eval/V_Evaluation.png)
+![V_eval](Eval/Visual_Evaluation.png)
            
 ![image1_raw](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/raw/1.bmp)
 ![image1_enahnced](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/enhanced/1_out.png)
