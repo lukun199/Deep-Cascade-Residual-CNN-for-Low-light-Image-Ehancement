@@ -18,6 +18,6 @@ SEE THE RESULTS BELOW.
 * Visual evaluation 
 ![V_eval](Eval/Visual_Evaluation.png)
            
-![image1_raw](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/raw/1.bmp)
+![v2_eval](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/raw/1.bmpEval/v_2.png)
 
 If you can not preview these images , please feel free to download the files above.
