@@ -12,8 +12,9 @@ Still, this result is yield in a small-scale test. As we see that some artifacts
 The test images used here is cited from LIME (https://sites.google.com/view/xjguo/lime).
 
 SEE THE RESULTS BELOW.  
-* Quantitive evaluation
-![image_eval](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/raw/1.bmp)
+* Quantitive evaluation  
+       
+![image_eval](evaluation.png)
            
 ![image1_raw](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/raw/1.bmp)
 ![image1_enahnced](https://github.com/lukun199/Deep-Cascade-Residual-CNN-for-Low-light-Image-Ehancement/blob/master/enhanced/1_out.png)
