@@ -15,11 +15,11 @@ SEE THE RESULTS BELOW.
 * Quantitive evaluation  
 ![Q_eval](Eval/Quantitive_Evaluation.png)
        
-* Visual evaluation 
+* Visual evaluation   
 Images from Cai-1E dataset
 ![V_eval](Eval/Visual_Evaluation.png)
            
-Images from LIME dataset
+Images from LIME dataset  
 ![v2_eval](Eval/v_2.png)
 
-If you can not preview these images , please feel free to download the files above.
+Our enhanced images are provided. If you can not preview these images , please feel free to download the raw images above.
