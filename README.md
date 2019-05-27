@@ -4,15 +4,13 @@ In this project, we explored a new deep cascade residual CNN which is designed f
 Since we are still working on this project, we would not release our source code and metwork framework till better results yield and publication in the future. More experiments are now undergoing.  
      
 However, some of the enhanced low-light imagses are shown here.   
-     
-Note that because of the RAM limitation of this machine (8G), the ‘5.bmp’ could not be processed, and that's why we give the results of the remaining 9 images.  
-     
+       
            
 The results of our cascade structure are shown below.  
 ![cascade_structure](Eval/structure.png)  
 
    
-The test images used here is cited from LIME,Cai,BIMEF,DICM,VVMEF,NPE,LOL...  
+The test images used here are cited from LIME,Cai,BIMEF,DICM,VV,MEF,NPE,LOL...  
 (https://github.com/baidut/BIMEF  https://daooshee.github.io/BMVC2018website/ https://github.com/csjcai/SICE).  
 
 SEE THE RESULTS BELOW.  
