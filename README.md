@@ -6,25 +6,30 @@
 
 Since we are still working on this project, we would not release our source code and network framework till better results yield and publication in the future. More experiments are now undergoing.  
      
-However, some of the enhanced low-light imagses are shown here.   
-       
+# Structure       
            
-The results of our cascade structure are shown below.  
-![cascade_structure](Eval/structure.png)  
+The structure of our proposed model is shown below.  
+![global_structure](Eval/Global_structure.png)  
+    
+    
+Images in latent space when N=3.
+![cascade_results](Eval/structure.png)  
 
-   
+
+# Evaluation  
 The test images used here are cited from LIME,Cai,BIMEF,DICM,VV,MEF,NPE,LOL...  
 (https://github.com/baidut/BIMEF  https://daooshee.github.io/BMVC2018website/ https://github.com/csjcai/SICE).  
      
      
-* Updated on 2019/06/03  
 
-SEE THE RESULTS BELOW.  
-* Quantitive evaluation (In addition to teh most commonlly used PSNR and SSIM, we also use NIQE to evaluate our method, referring to to authors in GLADNet)  
+> Updated on 2019/06/03  
+     
+## Quantitive evaluation   
+(In addition to teh most commonlly used PSNR and SSIM, we also use NIQE to evaluate our method, referring to to authors in GLADNet)  
 
 ![Q_eval](Eval/Newest_Q1_0602.png)
        
-* Visual evaluation  
+## Visual evaluation  
 ![V_eval](Eval/Newest_Q2_0602.png)
        
 ![V_eval_0](Eval/MEF_6079_COMPARE.png)  
