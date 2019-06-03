@@ -6,13 +6,8 @@
 
 Since we are still working on this project, we would not release our source code and network framework till better results yield and publication in the future. More experiments are now undergoing.  
      
-# Structure       
-           
-The structure of our proposed model is shown below.  
-![global_structure](Eval/Global_structure.png)  
-    
-    
-Images in latent space when N=3.
+       
+The results of our cascade model is shown below.           
 ![cascade_results](Eval/structure.png)  
 
 
