@@ -23,12 +23,14 @@ SEE THE RESULTS BELOW.
 ![Q_eval](Eval/Newest_Q1_0602.png)
        
 * Visual evaluation  
+![V_eval](Eval/Newest_Q2_0602.png)
+       
 ![V_eval_0](Eval/MEF_6079_COMPARE.png)  
 ![V_eval_1](Eval/MEF_00253_COMPARE.png)  
 ![V_eval_2](Eval/Fusion_01_COMPARE.png)  
 ![V_eval_3](Eval/LIME_01_COMPARE.png)  
 ![V_eval_4](Eval/DICM_04_COMPARE.png)  
-![V_eval_5](MEF_lampicka_CAOMPARE.png)  
+![V_eval_5](Eval/MEF_lampicka_CAOMPARE.png)  
 
 Our enhanced images are provided. If you can not preview these images , please feel free to download the raw images above.
 
