@@ -6,21 +6,23 @@
 
 Since we are still working on this project, we would not release our source code and network framework till better results yield and publication in the future. More experiments are now undergoing.  
      
-       
+> Updated on 2019/08/08  
+     
+     Low-light images and our enhanced results are available at  https://pan.baidu.com/s/1fCBYv9rG8JmLpCaizp7HNg
+     Including Cai-2E, Cai-1E, LOL, LIME, BIMEF, DICM, VV, MEF, and NPE.  
+    (https://github.com/baidut/BIMEF  https://daooshee.github.io/BMVC2018website/ https://github.com/csjcai/SICE). 
+    
 The results of our cascade model is shown below.           
 ![cascade_results](Eval/structure.png)  
 
 
 # Evaluation  
-The test images used here are cited from LIME,Cai,BIMEF,DICM,VV,MEF,NPE,LOL...  
-(https://github.com/baidut/BIMEF  https://daooshee.github.io/BMVC2018website/ https://github.com/csjcai/SICE).  
-     
+ 
      
 
-> Updated on 2019/06/03  
-     
+    
 ## Quantitive evaluation   
-(In addition to teh most commonlly used PSNR and SSIM, we also use NIQE to evaluate our method, referring to to authors in GLADNet)  
+(In addition to the most commonlly used PSNR and SSIM, we also use NIQE to evaluate our method, referring to to authors in GLADNet)  
 
 ![Q_eval](Eval/Newest_Q1_0602.png)
        
